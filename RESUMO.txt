@@ -1,0 +1,79 @@
+✅ VERSÃO PRA VOCÊ (SEU GUIA RÁPIDO)
+Onde modificar o site
+
+Trocar de loja → src/data/ (produtos e categorias)
+
+Trocar visual → src/styles/
+
+Trocar marca (nome/logo) → Header.jsx
+
+Trocar textos e promoções → Home.jsx
+
+❌ Não mexer:
+
+Shop.jsx
+
+CartContext
+
+rotas
+
+modais
+
+O que o site faz
+
+mostra produtos
+
+separa por categoria
+
+calcula o total
+
+envia o pedido pronto para o WhatsApp
+
+Modelo de venda
+
+Site de pedidos online
+
+Integração com WhatsApp
+
+Preço base: R$ 1.000
+
+🧾 VERSÃO PRO CLIENTE (EXPLICAÇÃO FINAL)
+O que é o site
+
+É um site de loja online que organiza os produtos e envia o pedido direto para o WhatsApp da loja.
+
+Como funciona
+
+O cliente acessa o site
+
+Visualiza os produtos organizados por categoria
+
+Escolhe os itens e monta o carrinho
+
+O site calcula o valor total
+
+O pedido é enviado pronto para o WhatsApp da loja
+
+👉 Sem confusão. Sem erro de pedido.
+
+Qual o benefício
+
+Ajuda a organizar as compras e evita mensagens confusas no WhatsApp.
+
+O que eu entrego
+
+Site no ar
+
+Produtos organizados
+
+Carrinho funcionando
+
+Pedido direto no WhatsApp
+
+Valor
+
+R$ 1.000 pelo site completo.
+
+FRASE FINAL PRA VENDER (DECORA ESSA)
+
+Eu entrego um site de pedidos online conectado ao WhatsApp da loja, que organiza as compras e facilita o atendimento.
