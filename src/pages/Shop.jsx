@@ -39,9 +39,7 @@ const Shop = () => {
           All Products
         </h1>
 
-        {/* Filters */}
         <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-100 dark:border-gray-700 p-5 mb-10 grid grid-cols-1 md:grid-cols-2 gap-6">
-          {/* Category */}
           <div>
             <label className="block text-sm font-medium mb-2 text-gray-700 dark:text-gray-300">
               Category
@@ -60,7 +58,6 @@ const Shop = () => {
             </select>
           </div>
 
-          {/* Sort */}
           <div>
             <label className="block text-sm font-medium mb-2 text-gray-700 dark:text-gray-300">
               Sort by
@@ -79,7 +76,6 @@ const Shop = () => {
           </div>
         </div>
 
-        {/* Grid */}
         {filteredProducts.length ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             {filteredProducts.map(product => (
@@ -96,4 +92,4 @@ const Shop = () => {
   );
 };
 
-export defa
+export default Shop;
