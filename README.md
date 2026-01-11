@@ -48,9 +48,6 @@ site-teste/
 ├── package.json
 └── README.md
 
-yaml
-Copiar código
-
 *(estrutura pode variar conforme organização do projeto)*
 
 ---
